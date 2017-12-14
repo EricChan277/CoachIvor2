@@ -4,13 +4,32 @@
   justify-content: center;
   flex-direction: column;
 }
+
 headings {
   font-size: 30px;
 }
+
+
+.logo,
 .ivorPic {
   max-width: 300px;
   max-height: 300px;
 }
+
+.champFlex {
+  flex-direction: row;
+}
+
+.champions {
+  max-width: 33%;
+  height: auto;
+}
+
+.champList {
+  max-width: 50%;
+  height: auto;
+}
+
 .minimap {
   max-width: 33%;
   max-height: auto;
