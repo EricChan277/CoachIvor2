@@ -1,0 +1,17 @@
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+headings {
+  font-size: 30px;
+}
+.ivorPic {
+  max-width: 300px;
+  max-height: 300px;
+}
+.minimap {
+  max-width: 33%;
+  max-height: auto;
+}
